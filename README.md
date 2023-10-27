@@ -1,4 +1,5 @@
 # [sheet.spacet.me](https://sheet.spacet.me)
+## forked from https://github.com/dtinth/sheet.spacet.me
 
 Quickly turn Google Sheets into a public, CDN-backed JSON endpoint.
 For more information, see the [website](https://sheet.spacet.me).
